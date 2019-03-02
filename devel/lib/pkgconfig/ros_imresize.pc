@@ -1,0 +1,8 @@
+prefix=/home/lukasz/catkin_interfejs/devel
+
+Name: ros_imresize
+Description: Description of ros_imresize
+Version: 0.0.0
+Cflags: -I/home/lukasz/catkin_interfejs/src/ros_imresize/include
+Libs: -L/home/lukasz/catkin_interfejs/devel/lib -lros_imresize
+Requires: cv_bridge image_transport roscpp std_msgs

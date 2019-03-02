@@ -1,0 +1,8 @@
+prefix=/home/lukasz/catkin_interfejs/install
+
+Name: openni_launch
+Description: Description of openni_launch
+Version: 1.11.1
+Cflags: 
+Libs: -L/home/lukasz/catkin_interfejs/install/lib 
+Requires: 

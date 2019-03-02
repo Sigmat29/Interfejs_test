@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -std=c++11 -g  -shared -Wl,-soname,libkinect2_tracker2.so -o /home/lukasz/catkin_interfejs/devel/lib/libkinect2_tracker2.so CMakeFiles/kinect2_tracker2.dir/src/kinect2_camera.cpp.o  -L/opt/ros/indigo/lib 

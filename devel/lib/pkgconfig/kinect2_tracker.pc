@@ -1,0 +1,8 @@
+prefix=/home/lukasz/catkin_interfejs/devel
+
+Name: kinect2_tracker
+Description: Description of kinect2_tracker
+Version: 0.0.1
+Cflags: -I/home/lukasz/catkin_interfejs/devel/include -I/home/lukasz/catkin_interfejs/src/kinect_v2/kinect2_tracker/include -I/usr/include/eigen3
+Libs: -L/home/lukasz/catkin_interfejs/devel/lib -lkinect2_tracker
+Requires: cv_bridge geometry_msgs image_transport kdl_conversions roscpp roslib tf tf_conversions visualization_msgs message_runtime

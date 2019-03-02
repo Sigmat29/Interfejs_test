@@ -1,0 +1,8 @@
+prefix=/home/lukasz/catkin_interfejs/install
+
+Name: pi_tracker
+Description: Description of pi_tracker
+Version: 0.4.0
+Cflags: -I/home/lukasz/catkin_interfejs/install/include
+Libs: -L/home/lukasz/catkin_interfejs/install/lib 
+Requires: message_runtime rospy roscpp

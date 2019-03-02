@@ -1,0 +1,8 @@
+\subsubsection usage Usage
+\verbatim
+<node name="kinect2_tracker" pkg="kinect2_tracker" type="kinect2_tracker">
+  <param name="velocity" type="double" value="0.4" />
+  <param name="strefa" type="double" value="0.2" />
+</node>
+\endverbatim
+

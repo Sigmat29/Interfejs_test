@@ -1,0 +1,2 @@
+kinect_v1/openni_camera/openni_camera:kinect_v1/openni_camera/openni_description:kinect_v1/openni_camera/openni_launch:kinect_v1/openni_tracker:kinect_v1/pi_tracker:kinect_v2/kinect2_tracker:ros_imresize
+-DCATKIN_DEVEL_PREFIX=/home/lukasz/catkin_interfejs/devel -DCMAKE_INSTALL_PREFIX=/home/lukasz/catkin_interfejs/install -G Unix Makefiles

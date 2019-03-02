@@ -1,0 +1,8 @@
+\subsubsection usage Usage
+\verbatim
+<node name="openni_tracker_listener" pkg="openni_tracker_listener" type="openni_tracker_listener">
+  <param name="velocity" type="double" value="0.4" />
+  <param name="strefa" type="double" value="0.2" />
+</node>
+\endverbatim
+

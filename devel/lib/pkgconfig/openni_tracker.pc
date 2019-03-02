@@ -1,0 +1,8 @@
+prefix=/home/lukasz/catkin_interfejs/devel
+
+Name: openni_tracker
+Description: Description of openni_tracker
+Version: 0.2.0
+Cflags: -I/home/lukasz/catkin_interfejs/devel/include
+Libs: -L/home/lukasz/catkin_interfejs/devel/lib 
+Requires: 
